@@ -3,7 +3,7 @@
 	"file": "https://dl.dropboxusercontent.com/s/jhybces7r0a44lo/convertcsv.json?dl=0",
 	"name": "Leonovo",
 	"header": 0,
-	"separator": ",",
+	"separator": ";",
 	"skip": 0,
 	"meta": [
 		{ "type": "integer", "index": 0, "name": "Segment ID 1" },
