@@ -1,0 +1,19 @@
+
+	{
+	"file": "https://dl.dropboxusercontent.com/s/jhybces7r0a44lo/convertcsv.json?dl=0",
+	"name": "Leonovo",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "integer", "index": 0, "name": "Segment ID 1" },
+		{ "type": "integer", "index": 1, "name": "Segment ID 2" },
+		{ "type": "id", "index": 2, "name": "Segment Name 1" },
+		{ "type": "string", "index": 3, "name": "Segment Name 2" },
+		{ "type": "float", "index": 4, "name": "Measure Values" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 0, "end": 1 },
+		{ "format": "binary", "start": 4, "end": 4 }
+	]
+	}
